@@ -1,0 +1,2 @@
+# vec-RAGARCHITECTURE
+# rag-architecture
